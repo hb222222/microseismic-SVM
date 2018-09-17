@@ -1,0 +1,6 @@
+cd /d/文件夹名字
+ls    %查看文件夹中的文件
+git add test.txt    %添加文件
+git commit -m "cc"  %给文件添加备注
+git push origin master     %输入自己的git账号
+git clone https://.......      %创建新项目克隆的仓库
